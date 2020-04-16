@@ -1,0 +1,215 @@
+44.which typescript statement will import an external module in a life named viewmodels is that is in the same folder as your code ? 
+ANSW: import module ('view module')
+
+37.the &quot;sourceMap&quot;:true is in tsconfig.json file used for
+ANS: C
+
+1. what will be the output of below program ?
+function f(input:boolean){
+let a=100;
+if(input){
+let b=a+1;
+return;
+}
+return b;
+}
+
+A> Compilation error for b
+
+2.ngDoCheck()
+ANS:  A: It is used to over rite the default change detection algorithm
+
+3.FormBuilder is a helper class that helps us to easily add  formcontrols,formgroups and formArrays to build the angular format
+ a) true  b) false
+ANS: TRUE
+
+4.select all the correct statements about @Input annotation 
+ANS: C: THE@INPUT IS USED NOT TO PASS
+
+5.select the code to pass the route parameter in angular
+ANS: A
+
+6.what is the output of below code 
+var fruits=["apple","banana","mango"];
+console.log(fruits.pop());
+console.log(fruits);
+
+
+7.how to import css using system import ?
+
+ANS:  1  System.import('./app/bootstrap/css/boots-trap.css!').then(() => {
+    System.import('./app/main-app.css!');
+});
+
+
+8.what is the output of the below code var a={name:"XYZ"};
+var b=a;
+b.name="ABC";
+console.log("a=>",a);
+console.log("b=>",b);
+
+9.how to assign a function to a variable with the javascript function constructor ?
+ANS: B  VARF=FUNCTION(X,Y){ RETURN X+Y:}
+
+10.the ng generates SimpleComponent from angular-CLI command will generate the simplecomponent.ts file with follwoing details
+
+ANS: 1   selector: 'app-hero-detail',
+  templateUrl: './hero-detail.component.html',
+  styleUrls: ['./hero-detail.component.css']
+})
+
+11.to access the custom pipe global if needs to be declared in
+ANS: A @ngmodule ({inputs[],declarations [<class name of the pipe>],bottstrap[]})
+
+12.to build application in production mode use belo command
+ 1. ng build 2.ng serve 3. ng build -prod 4. ng lint
+A> ng lint
+
+13.select the code to handle the httperror in anguler?
+ANS: A
+
+14.the folloeing code initaliazies string as three types and atempts to make them uppercase ,which statements about the behaviour of the typescript compiler are correct ?
+
+15. how to fetch the data from below link
+A> 1
+
+16.In angular ,tou can pass data from child component to parent component using ?
+A)@Output()
+
+17.below command is used run  static code analysis of angular application ?
+ANS: c. ng lint
+
+18.select the appropriate answer the below code ?
+@Injectable({providedIn:&#39;root&#39;}) export class Serviceclass{}
+Ansr : a,c
+
+19.what will be the return value of the following code
+parentIn(null,24)===23 
+ANS: TRUE
+
+20.we can chain multiple pipe in a single expression along with "async" pipe ?
+1.true 2 false
+A> true
+
+21 Consider the  folloing code snippet?
+ANS: C: RETURNS [1,2,3,4]
+
+22.select correct form control class name which is set to true via [(ngModel)] when ever value is modified  ?
+A> .ng-dirty
+
+23. what is primary advantage of using the let keyword over using the vr keyword ?
+ANS: A: let variable has block scope
+
+24.what keyword do we use to make  class avialble to any code outside of a module ?
+
+25.identify the propetries of ngForOf
+ANS: D the ngForOf will not iterate the objects
+
+26.what is the output of given code let a=[7,8,9]; let b=[1,2,3,... a,10]; console.log(b);
+ANS: A : (1,2,3,7,8,9,10)
+
+27.convert a given date into string ?
+ANS: A
+
+28.directive can listen to host/target events using below decorator ?
+A> B: @HostListener
+
+29.<form # userForm = "ngForm"(ngSubmit)=onSubmit(userForm.value)"> the ueform is an object returns ?
+
+30.display the array of values as template  in anguler
+
+32.filter the array object with condition age is greater than it var family=[{"name:"jack","age":26}
+Ansr : a
+
+33.below component represent target/host DOM element inside directive constructor
+A> ElementRef
+
+36.---need to passed as parameter in the event callback from the template to capture the event object ?
+
+35.one component can be declared inside more than one NgModule
+
+38.what is the output of the below code @component({
+
+40 we need to call below method of RouteModule 
+A>outerModule.forRoot
+
+
+
+
+answers and questions
+
+1. A directive which modifies DOM hierarchy is called... ?
+
+A> Structural directive
+
+2.What will be the output of below program?
+function f(input: boolean) {
+let a = 100;
+
+if (input) {
+let b = a + 1;
+return b;
+}
+return b;
+}
+
+A > Compilation error for b
+
+3. In Angular, you can pass data from parent component to child component using... 
+A> input
+
+4 . In Angular, you can pass data from child component to parent component using...
+ A>  @Output()
+
+5.You can create local HTML reference of HTML tag using variable which starts with a ... character.
+A> #
+
+6.Select correct form control class name which is set to true via [(ngModel)] whenever value is modified.
+A>.ng-dirty
+
+7. If you provide a custom service in two components’ “providers” section of @Component decorator, how many instances of service shall get created?
+A> 2
+
+8 Custom pipe can modify actual value of variable apart from different presention in HTML. ?
+A> false
+
+9.In Angular routing, below tag is used to render matched component via active route.
+A> <router-outlet></router-outlet>
+
+10.We need to call below method of RouterModule for providing all routes in AppModule.
+A> outerModule.forRoot
+
+11.Async Pipe subscribes to observer and update expression whenever there is data sent from observer.
+A. true
+
+12.Router service needs to be explicitly provided in angular module to use it in another component via DI.
+A false
+
+13.Below command is used to run Static Code analysis of Angular application.
+A.ng lint
+
+14.We can chain multiple pipe in a single expression along with “async” pipe.
+ A> true
+
+15. Below component represents “target/host” DOM element inside Directive’s constructor.
+A> ElementRef
+
+16.Which command must be used to build an application in production mode?
+A>ng build --prod
+
+17.Which decorator the directive uses to listen to the host/target events?
+A> @HostListener
+
+18.Using below wild card we can define page not found route.
+A> **
+
+19.There can be more than one <router-outlet> element in angular application.
+A>true
+
+20.Below service can be used to extract route parameters inside component.
+A>ActivatedRoute
+ 
+
+use ful links : https://medium.com/@balramchavan/angular-2-4-5-and-6-interview-questions-set-1-a632b9dec579
+https://medium.com/@balramchavan/angular-2-4-5-and-6-interview-questions-set-2-d9a5aaf743e0
+https://www.w3docs.com/quiz/question/ZwNk

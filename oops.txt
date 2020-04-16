@@ -1,0 +1,91 @@
+22.which of the follwing is shared structure of a set of similar objects
+ANS: a class
+
+27. unit of abstaraction of an object orinted program
+ANS: class
+
+3. which among the follwing is correct defination for static number function?
+ANS: B:Functions made to maintain single copy of member functions for all objects
+
+2.encapulation is best enforced by which of the follwing dicisions regarding object visibility?
+ANS:B: all attributes are private and all operations are public
+
+20.if class C inherits class B and class B inherits class A ---------
+ANS; C;class c object can be upcasted to object of either class A or B
+
+4: which of the follwing is the achived thru Data Abstraction?
+ANS: A: reduce complexity
+
+18: sally is writing some object-oriented program code for a vehicle which contains the attributes(manufacture, color,and price)to do (start,drive.and park)
+this is known as -------------
+ANS:A: CLASS
+
+1. dragons, has wings like a bird and scales like a lizard. in object-oriented  verbage ,we would say this is an example of ----
+Ans: multiful inheritance
+
+5. HOW can encapsulation be achived?
+ANS: a) Using Access Specifiers
+
+17 which among the folling violates the princeple of encapsulation allmost always? 
+ANS: B: GLOBAL VARIABLES
+
+11. if you want to write multiple function in a class with  same name,then what feature will you use ?
+Ansr : c.function overloading
+
+23.which among the following is a mandatory condition for downcasting?
+Ansr : c. it must be done explicitly
+
+26. which of the below statements about object oriented programming is not true ?
+ansr : b. focuses on data than funtion
+
+29.variables defined inside a class corresponding to data present in each instance
+Ansr : b. instance variable(fields,member variables)
+
+10.occurs when a decision about which method to run can only be made at run time
+Ansr ; c. running program
+
+6.which one of the option is not ture ?
+Ansr : abstract methods should be implemented in the derived class
+
+7.which among the following is true ?
+Ansr : b.static member functions can't be overloaded
+
+15.which among the following best defines abstraction ?
+Ansr : d.hiding the implementaion and showing only the features
+
+28.a phone is made up of many components like motherboard,camera,sensors and etc. if the processor represents all the funtioning of phone,display shows the display only,and the phone is represented as a whole
+Ansr : d.phone
+
+30.A_____ is a procedure associated with a class that describes an action an object is able to perform
+Ansr :b.method  
+
+16. which one of the below is good example for compostion ?
+Ansr : a.Employee and his/her address
+
+9.choose the correct statements ?
+ansr : c. first constructor called is of the object being created
+
+21. which among the following is correct?
+Ansr : d.abstract functons must be defined in all the derived classes
+
+12. the Constuctor--------
+Ansr : d. doesn't have return type
+
+19.which of following does not have a body
+Ansr : c. an abstract method
+
+24.which of the following is a mechanisam by which object acquires the properties of another object ?
+Ansr : c. inheritence
+
+25. Object Oriented Programing (OOP) treats _______ as a critical element in the program development
+Ansr : c.data
+
+8.If a derived class object is created,which constuctor is called first?
+Ansr: a.base class constructor
+
+14. Tax calculators :
+Ansr : c. polymorphisam
+
+13.the abstract function definitions in derived classess is enforced at __________
+Ansr : b.complie time
+

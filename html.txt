@@ -1,0 +1,89 @@
+26 the purpose of  -----elements is to encapsulate a group of links that servers as a collection of offsite links,document navigation or site navigation
+ANS: nav
+
+21, what is the correct html syntax for inserting a background image?
+ANS: <body style="background-image:url(background.gif)">
+
+15. which of the below code is used to get the user's position (Geo location)?
+ANS: navigator.geolocation.getcurrentposition(
+
+11. in html5 the queryselector function will rerturn
+ANS: b the first match of a result set
+
+1. a pixels consist of which compnents
+ANS; RGBA
+
+8. which of the folling attribute statements mark an input as required?
+ANS: C REQUIRED
+
+18. you are develping an html5 webpage.the parents of the text box must change when a user moves the focus to another element on the page user action.which line of the code should you use
+ANS A. &lt;input type="text" onblur="resetStyle(this);" />
+
+17. which of the folling is not true about detailst element?
+ANS: b
+
+
+27. GIVE a simple implementataion of the <video> tag to embed a videos stored at http://www.example.com/amazing user with controles
+ANS; A <videowidth="640"> height 360 controles
+
+22.how do display a border like this the top border=10 pixels the bottom border=5 pixels the left border= 20 the riht border=1
+ANS;C border-width;10px 1 px 5 px 20px
+
+20 write the code necessary to create 200pixels by 200pixels<canvas>withinit paint a blue 50pixels by 50 pixsls square with the top left corner of top and left edges of the canvas/
+ANS: A 
+
+14,TYPE="email" used on input fields provides the folling advantages
+ANS; b enable modern browsers to valadate
+
+4.web workers in html5 enable 
+Ansr : C client-side transactional database access
+
+12. abiltiy to use inline svg and ---- intext/html
+ansr. xml
+
+3. setinterval(loop,50)
+ansr : c. ctx.fillrate(0,0,300,300);
+
+5) html5 storage is based on 
+ansr : 1. named key/value pairs
+
+9.select the correct option to create an email link 
+ansr : 1. <a href= mailto:xxx@xxx.com></a>
+
+25.your developing on html5 page that includes several paragarph elements you have the following requirements add a drop shaddow that is 
+ansr : D text-shadow: 72pt 0em 5px;
+
+23. <input type ="test" id="firstname" xxx> based on the sample code above what attribute replaces xxx to create a shotcut key that user can use to acccess the test filed
+ansr : access key
+
+13.how do you indicate the character set being use by  an html5 document? how does this differ from older html standard
+ans :  1. in html5 the encoding
+
+7. your developing an e-commerce website user place products into a shopping cart  you need to ensure that the shopping cart data is available between browser session which object should use to store the shopping cart data
+
+ANS : 4. application storage
+
+19.select the corect element for defining a navigation menu for your site
+ANS : 1. <nav>
+
+28. the "contenteditable" attribute is used to
+ANS : 2 . allow the user to edit test content with in the elements
+
+24. your developing an html5 page that as an element with an id of logo the page includes the following html <div> logo: <br><div id="logo"> </div></div> you need to move the logo element lower on the page by five pixes. which lines of code should you use ?
+ANS : A. document.getElementById("logo") .style.position = "relative";
+B. document.getElementByld("logo").Style.top = "5px";
+
+2.'translating tha canvas allows you to'
+ANS : 1.draw in 3d  4. relocate the 0,0 axis postion to a given position on the canvas
+
+29. what is the recommended where to conduct feature dection
+ansr : c. explicity interowgate the browser for required features
+
+6. whcich of the following elemnets are no longer supported in html5
+Avsr : d. <acronym>
+
+16.html5 provides a standdard for showing video on a webpage.select the correct element to achive this
+Ansr : 2. <video src="filemname.ext" controls="controls"> video
+
+
+     

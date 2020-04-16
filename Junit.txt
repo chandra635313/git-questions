@@ -1,0 +1,30 @@
+18. Mocking framework is used when
+Ansr : unit uns=der test is dependent on external object
+
+12.In AAA pattern,which of the following will come first ?
+Ansr : Arrange
+
+16.you should always create tests that depends on results of preceding tests
+Ansr : b.false
+
+19. Integration tests differ from unit tests in that the code under test is not isolated?
+Ansr : b.false
+
+20. Unit tests help to self document a projects
+Ansr : b.false
+
+
+15.How many unit tests should write ?
+Ansr : a. 100% of code coverage should be achived
+
+14.Unit testing doesn't influence the architecture of a poject 
+Ansr : a. true
+
+13._______ is a part of the source code that will never be executed due to inappropriate exit points/control flow
+Ansr : a. unexecutable code
+
+11.the following technical role performs unit testing
+Ansr : b.Developer
+
+6.Acollection of unit tests is called 
+Ansr : c. A suite

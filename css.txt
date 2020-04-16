@@ -1,0 +1,90 @@
+27. identity the elements of box modal border,width,margin,height,content, padding 
+Ansr : border,margin,content,padding
+
+5. select the code to use counter-increment and counter-reset in css ?
+Ansr : a. h1 {counter-treeset;bar} h1;before{counter-increment;bar
+
+18. the gap of an image can be removed by
+Ansr : a. image{display:block;}
+
+1. In the following code snippet what values is given for the left margin: margin : 5px 10px 3px 8px
+Ansr : c. 8px
+
+26.how to resize a background image using CSS3 ?
+Asr : backgroundsize:80 px 60 px
+
+2. <body>
+    <div id ="d1" >div1<class div
+Ansr : a div#d1
+
+29. what is the correct syntax for importing a style sheet in css
+Ansr : a.@import url(css/example.css);
+
+12.which one of the follwoing an invalid system font value for the font property ?
+Ansr : b .button
+
+23.select proper syntax for opacity in CSS3
+Asr : b.filter:alpha(opacity=40)
+
+17. how to you modify a border image using css3 ?
+Ansr : c.border-image:url(border-png)30 30 round
+
+25.How do you make each word in a test start with a capital laetter
+Ansr : d.none of the above
+
+11.Which statement below are true when css style below applied on a span tag containg test ? .greydought:hover{}
+Ansr : a, c 
+
+20 how to rotate objects using css3
+Ansr : b.transform:rotate(30deg);
+
+28.select the code for applying the white color to all the inputs which are lying in body tag
+Ansr :1. body>input{color: #fffff1;}
+
+3.which one of the following lines of code sets all h1,h2,and h3 elements to be green
+Ansr : e.h1,h2,h3{color: green}
+
+8.image to be shown as cursor by setting the url as the source of a cusrsor image file
+Ansr : a.true
+
+16.the ______ property allow to specify the distance between the list and the test relating to the list
+Ansr : marker-spacing
+
+10. What is the output of the following code : input [type="text"] {color:#b2bfc7:}
+Ansr : its type sector which selects all the type of text and color with specified color
+
+14.what is the that order that css rule for link styles should be put in style sheet
+Ansr : c.:visted,:link,:hover,and :active
+
+13.what is the new,is easier way to import or modify fonts with css3?
+ANS: B @FONT-FACE
+
+ 
+
+22. which snippet of css is commonly used to center a website horizontally
+Ansr : d. margin 0 auto
+
+9. Select the code which creates rounded corner
+Ansr : d. #corner{border-radious:25px;border:2px solid#8acoo7 : width
+
+6>select various font attributes used in style sheet
+Ansr : font-text
+
+24. follwing command defines p{font-size:16pt; line-height:125%}
+ANS: C :difines a mesurment for an enclosing elemnet
+
+19. which of the folling would be used to create an id called header which  has a width of 750px, aheight of 30px and the color of the text is
+ANS: A: #header{height:30px;WIDTH:750px;color:block;}
+ 
+#header{height:30px; width:750px; color:#000;}
+7:select the css3 modules?
+ANS: D: ALL OF THE ABOVE
+
+15.GIVEN A code all pdf links block width single line of code
+ANS: A: a[href$=".pdf"]
+
+4.which property do you use to create a increment value
+ANS: A : COUNTER-INCREMENT
+ 
+21.PROperty used to controle the scrolling of an image in the background is ?
+ANS: A: BACKGROUND -ATTACHMENT

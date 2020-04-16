@@ -1,0 +1,105 @@
+27:what command would create the "my" alias for the commit command (at the global or user, level) ?
+ANS: git config --global alias.my commit
+3, if you are cloning a repository that conatins sub module,they will be intialized
+ANS: c only if u clone with -- recursive argumnent'
+
+11,the pull command thus performs two operations it fetches changes from a remote branch,then merges them current branch
+ANS A true
+
+9: command a used to create a git repository in the current directory?
+ANS: git init
+
+10: a bare git repository
+ ANS: has contains of .git directory insted a working tree
+
+5--- operations allows creating another line of development?
+ANS : branch
+
+8: this commit object is addressble via a hash (sha-1 checkfrom)
+ANS: true
+
+4; THE staging area keeps track of the snopshats of the file until the staged changes are commited
+ANS: true
+
+1.git uses copy mechanisium to create branches,if we create a new branch it will copy all the codes to the new branch so it is time -c
+
+ANS: false
+
+2, user configuration is done if you include the - opition in the git config command
+
+ANS: -- GLOBAL
+
+13, what is the differnce b/w tags and branches in git?
+ANS : BRANches contains full copys of the files
+
+12, what is the opposite of git clone,instaed of downloading ur code from github,uploads your changes and code back to git hub?
+ANS: GIT PUSH
+
+7 what command do you run to view the commit history of ur repository?
+ANS: git log
+
+6,what is the name of the file used to tell git ignore certain files 
+ANS: .gitignore
+
+37: whats the git command that downloads ur repository from git hub to ur computer
+ANS: git clone
+
+31.when should you not run 'git gc'?
+ANS; when you plan to push to a remote
+
+21. a conflect during a message operation occurs if two commmits from different branches have modified tha same content and git can not autom combined when merging these branches?
+ANS: true
+15,git uses copy mechanisium to create branches,if we create a new branch it will copy all the codes to the new branch so it is time -c
+ANS: false
+29, a file in the working tree of a git repository can have different states(choose all that apply)
+ANS: all the above
+
+25 :what files can be searched in using git grep?
+ANS: CURRNT W T  and remote working tree
+
+34:assuming ur repo as a remote called production,what command whould send all local commited changes and the master brach to that remote?
+ANS: GIT send master production
+
+36, git attributes are used to 
+ANS; specify some setting for perticular file or types of files in the repository
+
+18,what is the puefes of git filter - branch
+ANS:  to rewrite history by applying some operations to all commites
+
+26.git reflog is used to 
+ANS: store the history of updates of refs
+17,- opration allows you to store your pertial changes and later on commitit
+ANS: STASH
+39,where is branch stored inside a git repository
+ANS: inside  .git/refs directory
+38,- is symbolic reference most often pointing to the currently checked out branch
+ANS: HEAD
+20 where does git looks for its subprogrames (git - commit ,git - diff)?
+ANS: GIT_EXEC_PATH environment variables
+16, for commiting staged changes you use the 
+ANS: GIT COMMIT
+19,which command will add a remote branch to the repository?
+ANS: git remote add url name
+22, to create  a branch you run git branch.how can you create a branch and switch to it in one command
+ANS:  git checkout -b <branch_name>
+14, selecting a branch in git terminology is called to - a branch
+ANS : CHECKOUT
+30 - is a pointer, which always points to the latest commit in the branch
+ANS: head
+35, git describe looks for the nearset - reacheble from the commmit?
+ANS: tag
+23. which of the follwing is not a valid option for credential.helper setting
+ANS: DOUBT cache
+33,git user configuration file is stored in
+USER HOME DIR
+24,whats a sharocut to staging all the changes you have 
+ANS: GIT add .
+40 after adding the selected files to the staging area, u can commit these files to add them temproryly to the git repository
+ANS false
+28 does git diff binary files?
+
+
+
+
+
+

@@ -26,5 +26,46 @@ Ansr : a. unexecutable code
 11.the following technical role performs unit testing
 Ansr : b.Developer
 
+17. unit front classesewhould the structure
+ANS: false
+
 6.Acollection of unit tests is called 
 Ansr : c. A suite
+
+4.which one of the following are the benefits of unit testing?
+ANS: D: all of the above
+
+5.unreachable code side effects select 3 options?
+ANS: A,B,C
+
+1. ---- are instances of test-provided classes that simulate the behavior of external components.
+ANS: A
+
+10: unit test can be written based on which of the follwing methodologies?
+ANS: BOTH A AND B
+
+2. if several tests are using the same read only data,this data could be initialized ones for an entire test class or test suite?
+ANS: TRUE
+
+9: at the end of the day unit testing helps us to
+ANS: ALL of the above
+
+17. unit test comes whould be above in software
+ANS; FALSE
+
+3. it is not possible 
+ANS: FALSE
+
+7.-----------
+ANS: B 
+
+8 WHICH OF the follwing 
+ASN: D
+
+
+
+
+
+
+https://www.tutorialspoint.com/junit/pdf/junit_mock_test_ii.pdf
+https://www.tutorialspoint.com/junit/junit_mock_test.htm

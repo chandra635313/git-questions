@@ -1,0 +1,142 @@
+3. which of the statements below are true about resquester pays property of aws s3?
+ANS: b
+4. which statement is true about aws glacler storage(choose 2 answers)
+ANS: b.c
+5.which aws service we can use to run code without thinking about servers and pay only for the compute time you consume?
+ANS: B: AWS LAMDA
+
+6: what is versioning when using amazon s3 service?
+ANS: B
+
+7: which of the below are true for EC2 Reserve instances(choose multiple if more than one are true?
+ANS: bcd
+
+8: the follwing are benfits for cloud computing:
+ANS: abc
+
+
+9. how can you access data on Elastic Block Storage(EBS)?
+ANS: A
+
+11, you are hosting you application using Elastic beanstack service. as a developer you are responsible for
+ANS: B
+
+12. IN A MULTI-AZ rds deployment,which rds db instance service the db read/write operations?
+ANS: C
+
+13. choose the actions that can be performed on an ec2 instance?
+ANS: A,C,D,E,F
+
+14. YOR are designing a cloud application that has two components they need to communicate with each other .....scalable message queuing service?
+ANS: B:SWF
+
+15. WHICH of the follwing instance class best used for application that are processor or compute-intensive?
+ANS:C:HIGH CPU INSTANCES
+
+17. CHOOSE all the statements that are true about visibility timeout property of amazon SQS?
+ANS: A.D
+
+18.WHICH of the following aws service should be implemented in multiple availability zones for high avalilabilty solutions?choose 2 answers from the options below.
+ANS: B. Amazon Elastic Compute Cloud (EC2)
+C. Amazon Elastic Load Balancing
+
+19. WHICH of the following database type does rds support(choose multiple if more than one)?
+ANS: ABC
+
+20. which of the follwing are true for groups in IAM?(CHOOSE3)?
+ANS: BCD
+
+22. WHICH operations are supported by simple notification service(SNS)?select3
+ANS: ABC
+
+23. a cloud application recives a lot of empty ........... what can you do?
+ANS: B 
+
+24. EBS can always tolerate an avaliability zone failure?
+ANS: A: No, all EBS volume is stored in a single Availability Zone
+
+25. WHICH of the below are managed by aws elastic beanstack service
+ANS: BCDE
+
+26. is it possible to subscribe an sqs queue to an sns topic
+ANS:  YES
+
+
+10.for what are you charged in IAM?
+Ansr : d. no additional charge
+
+16.AWS elastic beanstalk atuomatically handles the deployment,once you upload your code
+Ansr : a.true
+
+21.which  instance type gives a discount (up to 90%) compared to on-demand instance pricing ?
+Ansr :  b. spot instance
+
+27.which of the following operations retrives the newest version of the object?
+Ansr : a.get
+
+28.an application currently accepts users to upload files to an s3 bucket
+Ansr : a & c
+
+29.you want to allow AWS Lambda to upload and read objects from specific s3 bucket
+Ansr : b
+
+ 30.identity the use cases of read replica feature of RDS service ?
+Ansr : a,c & d
+
+31.every region or availability zone supports all AWS resources/services
+Ansr : b.false
+
+32. format of the SNS notifications to SQ queue is
+Ansr : b. JSon
+
+33.you are designing an application that will perform video transcoding
+Ansr : a.simple workflow(SWF)
+
+34.which of the following instance has an hourly rate with no long-term commitment?
+Ansr : a. On-Demand Instance
+
+35.can you attah single EBS volume to multiple EC2 instances  at the same time?
+Ansr : b.no
+
+36.which of the following benefits does adding multi-AZ deployment in RDS provide (choose multiple if more than one is true )?
+Ansr : a.make the database fault tolerant of datacenter failure
+       b. decrease latencies if app servers accessing database are
+
+37.which of the below statements about amazon s3 website hosting are true?
+Ansr : a & c
+
+38.AWS billing metric data is stored in________ region
+Ansr : c.north virginia
+
+39. when you create an IAM user,what permisssions would that user be given as soon as it is newly created?
+Ansr : c. No permissions
+
+40.which of these services allows you to centrally manage users and credentials and control to resources ?
+Ansr : b.IAM
+
+41. which of the following is true about EC2 security group (select multiple if more than one is true )?
+Ansr : b&c
+
+42.in the basic monitoring package for EC2,Amazon cloudwatch provides the following metrics
+Ansr : b & d
+
+43.you are planning to host a static website, using amazon s3 bicket,which of the below statements are true for the given scenario
+Ansr : a & e
+
+44.can users secure the messages sent to simple notifications service(SNS) topics? select 2
+Ansr : d.yes by using custom encryption mechanism
+
+45.how the point-in-time restore works using amazon RDS ?
+Ansr : d
+
+46.your EBS volume snapshots are store in s3,and you an access them through:
+Ansr : through EC2 APIs
+
+47.which of the following benefits does adding read replices in RDs provide(
+Ansr : d. read replicas will always be synch
+
+48.you have hosted an asp.net mvc appli in AWS EC2 instance
+Ansr  : c.you have
+
+49. which of the statement about amazaon s3 services limotations are ture
+Ansr : b & d
